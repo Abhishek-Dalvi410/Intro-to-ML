@@ -1,0 +1,7 @@
+Demonstrating Unsupervised Learning on Fashion MNIST dataset using 3 approaches:-
+
+1) Simple K-means
+
+2) K-means on encoded image using Autoencoder(for reducing dimensions)
+
+3) GMM on encoded image using Autoencoder(for reducing dimensions)
